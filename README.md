@@ -1,0 +1,2 @@
+# gout
+Simple authentication service.
